@@ -1,0 +1,9 @@
+{
+  "name": "dev-crud-v1",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"extensions": [
+		"golang.go",
+	]
+}
